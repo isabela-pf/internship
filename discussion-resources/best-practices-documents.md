@@ -39,3 +39,4 @@ With reference to [WCAG's page on color contrast, 'Techniques and Failures for S
 - The Tetralogical document '[Quick accessibility tests anyone can do](https://tetralogical.com/blog/2022/01/18/quick-accessibility-tests-anyone-can-do/)' mentions 'people with reading disabilities, such as dyslexia' as people who also benefit from the best practice of colour customisation. The WCAG's page on color contrast does not mention these users.
 
 ### Difference across Best Practices Documents
+- Are these differences because of different target audience? Different context? (a quick 10 ten tips list vs centralized resource)
