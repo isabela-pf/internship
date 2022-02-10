@@ -14,8 +14,8 @@ Learning from others to help write our own.
 
 ## Examples of Best Practices Document
 - Everyday examples
--   Instruction manuals on how frequently to clean your new appliance
--   Student handbook on how to wear the uniform and expected behabiors
+  - Instruction manuals on how frequently to clean your new appliance
+  - Student handbook on how to wear the uniform and expected behabiors
 - Accessibiltiy best practice documents such as [WCAG's page on color contrast, 'Techniques and Failures for Success Criterion 1.4.3 - Contrast (Minimum)'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
 - 
 
