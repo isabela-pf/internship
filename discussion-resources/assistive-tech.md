@@ -4,7 +4,7 @@ Assistive technology is sometimes referred to as AT.
 
 This resources are from the February 24, 2022 discussion.
 
-## What kinds of assistive technology are ther?
+## What kinds of assistive technology are there?
 
 - [Types of Assistive Technology - Berkeley Web Access](https://webaccess.berkeley.edu/resources/assistive-technology)
      - This resource was mentioned in the [February 3](https://github.com/isabela-pf/internship/blob/main/weekly-updates/2022-02-03.md) notes.
