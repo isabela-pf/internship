@@ -1,22 +1,21 @@
-# Meeting with Eric Charles to Audit JupyterLab with MacOS
+# Meeting with E to Audit JupyterLab with MacOS
 
 ## Meeting Agenda
-1. Run audit of JupyterLab RTC using Eric's screen-reader, completing these 5 actions
+1. Run audit of JupyterLab RTC using E's screen-reader, completing these 5 actions
 - Share document
 - Make a comment
 - Read a comment
 - Respond to a comment
 - Find where other people in document
-2. Discuss this question with Eric: If you were to read a best-practices document about accessible RTC, what would you like to look for?
+2. Discuss this question with E: If you were to read a best-practices document about accessible RTC, what would you like to look for?
 
 ## Discussion Points
-### Eric's work'
+### E's work'
 - Doesn't have much experince with VoiceOver but knows a lot about Jupyter and RTC
 - Worked on the RTC of JupyterLab, so knows a lot about the architecture of RTCs. This architecture in turn affects the front-end experience and navigation of RTC tools.
 - Mars think his experience as a developer is really valuable and can help us make Swast's report.
-- Also working on adding RTC to another project, 'Jupyter React with Slate'
 
-### Eric's opinion:
+### E's opinion:
 - We should audit Jupyter first, then audit Jupter RTC later
   - Jupyter, then Jupyter RTC on top of that: adding layers of complexity, need to know the base
 
@@ -48,7 +47,7 @@
 
 ### Evaulation of Audit
 - Going down file directory, VoiceOVer reads out very long file properties: Not good user experience, information overload, cannot easily skim file directory
-  - Eric said he could see how ARIA labels could help. To replace the long file name, identify element quicker
+  - E said he could see how ARIA labels could help. To replace the long file name, identify element quicker
   - However, Isabela has some reservation about ARIA labels- could it be useful in this case?
 - If you have a tree or list, provide option in JupyterLab or screen-reader properties customize how much read
   - VoiceOver has Verbosity feature
@@ -59,7 +58,7 @@
 - As a developer, would like to know patterns, how to code for VoiceOver or other screen-readers: sooner your know, easier to implement
 - As a developer, need to know which details will be spoken by VoiceOver, filename only or creation date or status
 - What are standards we should implement, such as how much options to give to user in making their user experience better? 
-- Developers may generally understand what a screen-reader does, but not have expereince or know specifics about screen-readers, such as Eric admitting he did not know about VoiceOver Verbosity feature- if he did, he could write code with that feature in mind
+- Developers may generally understand what a screen-reader does, but not have expereince or know specifics about screen-readers, such as E admitting he did not know about VoiceOver Verbosity feature- if he did, he could write code with that feature in mind
 - How does Verbosity work in general and then in JupyterLab or an RTC tool? High, Low Verbosity?
 - Are there differences in developing and optimizing for different screen-readers? Does VoiceOver and NVDA need different code? Like app development has subtle differences for iOS vs Android.
 - Need to see if there is common ground for all products- reduce redundancies
@@ -73,9 +72,9 @@
 - Completed one action! However, could not complete other actions
   - as not applicable to JuptyerLab RTC, such as commenting
   - unfamiliarity with VoiceOver set-up navigation, thus ran out of time
-- Eric requested specific keyboard commands for each action
+- E requested specific keyboard commands for each action
   - Share a file
     - Turn on VoiceOver: Cmd F5
     - Right click a file: Ctrl + Option, Shift M
     - Go down menu action 'Copy Shareable link': Arrow key down
-- If we decide to try this audit again with Eric with more specfic keyboard commands, we will let him know
+- If we decide to try this audit again with E with more specfic keyboard commands, we will let him know
