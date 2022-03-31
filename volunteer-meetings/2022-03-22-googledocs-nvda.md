@@ -2,6 +2,8 @@
 
 ## Meeting Agenda
 
+Date conducted: 22 March 2022
+
 1. Quick Audit a few real time collaborative tasks on Google Docs using NVDA.
 2. Let us know your journey using NVDA screen reader on Google Docs.
 3. Quick question in the end: What do you wish to have or expect in a report called “Best Accessibility Practices for Real Time Collaborative tools”
