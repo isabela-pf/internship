@@ -245,15 +245,15 @@ Summarized. More specifics can be provided per-section as needed.
 - Don’t need to write much new material for this section
 - (If there are maultiple audits, we may include major takeaways/patterns per audit)
 
-### Summary of Audit(s)
+~~### Summary of Audit(s)~~
 
-- The big picture/”why should I care?” of all this research
+- ~~The big picture/”why should I care?” of all this research~~
 
-### Recommendations
+~~### Recommendations~~
 
-From Swast section:
+~~rom Swast section:~~
 
-1. For any developer/designer, after a software or website is made - 
+1. ~~For any developer/designer, after a software or website is made - ~~
 
        — mostly accessibility is not considered from the beginning. 
 
@@ -267,13 +267,13 @@ how can they improve their existing platform to make it more accessible -
 
        — how can they support people even though they missed in the beginning 
 
-             —- This can be used by other developers and designers as well and not limiting to RTC   tools
+             — This can be used by other developers and designers as well and not limiting to RTC tools
 
-       — Do’s and Don’ts of making the platform accessible - what can be done to make it easier for the users to use it
+      — Do’s and Don’ts of making the platform accessible - what can be done to make it easier for the users to use it
 
-       — Anything else if can be done - new - like when building something from scratch what all they should do - any new ideas
+      — Anything else if can be done - new - like when building something from scratch what all they should do - any new ideas
 
-- May include examples where relevant
+~~- May include examples where relevant~~
 
 ### Next steps
 
