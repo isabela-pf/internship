@@ -245,11 +245,11 @@ Summarized. More specifics can be provided per-section as needed.
 - Don’t need to write much new material for this section
 - (If there are maultiple audits, we may include major takeaways/patterns per audit)
 
-~~### Summary of Audit(s)~~
+### ~~Summary of Audit(s)~~
 
 - ~~The big picture/”why should I care?” of all this research~~
 
-~~### Recommendations~~
+### ~~Recommendations~~
 
 ~~rom Swast section:~~
 
