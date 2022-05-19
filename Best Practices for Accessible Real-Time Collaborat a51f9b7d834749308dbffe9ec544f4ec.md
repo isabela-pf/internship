@@ -55,6 +55,10 @@ Here is the audit report to what we found out:
 
 ### ***User stories we are targeting!***
 
+[](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da60e229-8c5a-4d55-a8a2-2a5fa9fbe4f7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220519%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220519T130745Z&X-Amz-Expires=86400&X-Amz-Signature=27648b3abe1e5636c3550766e6011dbd8f4d21cb58cfb4c608c2b0375562c3b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+[](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/676913c6-44b8-4941-a9c9-8c62069fdea9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220519%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220519T130729Z&X-Amz-Expires=86400&X-Amz-Signature=50c31ef3a1015a6207a74ac33735d4eea3e4791b33e2c43c429d6e993a5f574e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
 ### **To check out details of the audits:**
 
 [Assistive tech audit - Google docs + Voice over](https://www.notion.so/Assistive-tech-audit-Google-docs-Voice-over-643e4183aafb47a89d176c6fba3018bc)
