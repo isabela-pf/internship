@@ -113,6 +113,17 @@ This audit was to test the real time collaborative actions of these collaborativ
 - Other notes about the task performed were noted down to make sure nothing was missed or lost.
 - Responses post-action as important. Confirmation that you commented, for example. Confirmation that a link has been copied to the clipboard. It seems like that happens sometimes, but not always.
 
+### **Conclusions (or Results):**
+
+The audit results came out to be mostly doing the real-time collaborative functions such as sharing the document and collaborating on them online.Also pointing out that RTC accessibility is still full of questions and needs devoted, open research. We don't have all the answers but we have tried to question the concept.
+
+- Actions were mostly easily performed using the “Tab” key on the keyboard for both VoiceOver and Keyboard shortcut audits.
+- [Accessibility features](https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop) available on Google docs did not work for us, there are a number of features available like verbalise to screen reader, showing live edits. Most of them were not usable and insufficient information regarding their usage was provided on the internet.
+- Both the screen readers had different actions and outputs. Voiceover mainly focused on reading out the actions and experience, whereas NVDA mostly focused on reading out the interface.
+- For building accessible software and platforms, being able to read out the essential actions instead of just dictating out all action buttons and interface actions is essential.
+- Key features of building a software or web app or even a platform accessible are not discovered enough and need information and resources on this.
+- Response to every action, before the action taking place and after the action happened is critical to understand if it is effective or not and the desired results are shown.
+
 ### **Recommendations:**
 
 As per the audits and interviews conducted by us, we noted down some of the recommendations we had for someone who would like to build an accessible platform or make an existing platform accessible.
@@ -120,18 +131,7 @@ As per the audits and interviews conducted by us, we noted down some of the reco
 - Accessibility should be considered from the beginning. Many developers and designers think of accessibility very late and forget its core importance.
 - Accessibility should not be considered only for the sake of completing it as a check box, but for product brilliance.
 - One can start by solving general accessibility problems like adding alt texts for images and data and considering user testings for results.
-- It is recommended to build a proper team for accessibility and not consider it a responsibility of a particular group (or designers)
-- It is not necessary to have inbuilt tools on your platform or adding a ton of features around accessibility, making the product feasible to use even with external accessibility tools can help a lot as most of the users might be already comfortable with their usual tools. For example - focus on the verbal output from different screen readers.
-- It is recommended to divide the actions into input and output actions, then work on solving the accessibility problems.
-- A lot of areas in accessibility are yet to be worked on and require people to be able to test and give suitable inputs. Solving a problem can get more manageable if you face the issue directly.
-
-### **Conclusions (or Results):**
-
-The audit results came out to be mostly doing the real-time collaborative functions such as sharing the document and collaborating on them online.
-
-- Actions were mostly easily performed using the “Tab” key on the keyboard for both VoiceOver and Keyboard shortcut audits.
-- Accessibility features available on Google docs don’t work at all, there are a number of features available like verbalise to screen reader, showing live edits. Most of them were not usable and insufficient information regarding their usage was provided on the internet.
-- Both the screen readers had different actions and outputs. Voiceover mainly focused on reading out the actions and experience, whereas NVDA mostly focused on reading out the interface.
-- For building accessible software and platforms, being able to read out the essential actions instead of just dictating out all action buttons and interface actions is essential.
-- Key features of building a software or web app or even a platform accessible are not discovered enough and need information and resources on this.
-- Response to every action, before the action taking place and after the action happened is critical to understand if it is effective or not and the desired results are shown.
+- It is recommended to build a proper team for accessibility and not consider it a responsibility of a particular group (or designers).
+- It is not necessary to have inbuilt tools on your platform or adding a ton of features around accessibility, making the product feasible to use even with external accessibility tools can help a lot as most of the users might be already comfortable with their usual tools. For example - focus on the verbal output from different screen readers of different companies, some focuses on interface and some on the experience to dictate out.
+- It is recommended to divide the actions into input and output actions, then work on solving the accessibility problems. 
+- Accessibility requires people to test and give input. Solving a problem can get more manageable if you face the issue directly.
