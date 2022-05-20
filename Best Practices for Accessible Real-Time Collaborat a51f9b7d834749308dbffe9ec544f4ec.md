@@ -127,8 +127,8 @@ The audit results came out to be mostly doing the real-time collaborative functi
 - [Accessibility features](https://support.google.com/docs/answer/6282736?hl=en&co=GENIE.Platform%3DDesktop) available on Google docs did not work for us, there are a number of features available like verbalise to screen reader, showing live edits. Most of them were not usable and insufficient information regarding their usage was provided on the internet.
 - Both the screen readers had different actions and outputs. Voiceover mainly focused on reading out the actions and experience, whereas NVDA mostly focused on reading out the interface.
 - For building accessible software and platforms, being able to read out the essential actions instead of just dictating out all action buttons and interface actions is essential.
-- Key features of building a software or web app or even a platform accessible are not discovered enough and need information and resources on this.
-- Response to every action, before the action taking place and after the action happened is critical to understand if it is effective or not and the desired results are shown.
+- Key features of building a software or web app or even a platform accessible needs open information and resources. Definitely there are people researching on this but information to bring accessibility as a concept into teams is neccessary.
+- Response to every action is important to be noted, before the action taking place and after the action happened is critical to understand if it is effective or not and the desired results are shown which will be useful for the user.
 
 ### **Recommendations:**
 
