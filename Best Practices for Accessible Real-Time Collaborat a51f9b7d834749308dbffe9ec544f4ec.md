@@ -1,4 +1,4 @@
-# Best Practices for Accessible Real-Time Collaboration - Draft
+# Best Practices for Accessible Real-Time Collaboration
 
 ## Accessibility - Introduction
 
@@ -20,7 +20,7 @@ Broadly speaking, disabilities can be categorised in five groups:
 
 ### ***Accessibility - Why is it important?***
 
-Accessibility is easily ignored, mostly because many abled people that build products don’t even know why it is necessary. People may ask why they should worry about accessibility? Is it because it is the right thing to do? or does it make sense financially? If it is really the right thing to do then why do we lack so much of this knowledge or even do not understand its actual importance?
+Accessibility has been overpassed when building a product most of the times. Mostly because the team comprises of many abled people, who don't realise the absence of accessibility and what difference it could make if it was given attention. People may ask why they should worry about accessibility? Is it because it is the right thing to do? or does it make sense financially? If it is really the right thing to do then why do we lack so much of this knowledge? and how to get started with it?
 
 Accessibility is a fundamental foundation for inclusion. There are multiple answers to the questions we listed down - of why is [accessibility actually important](https://www.w3.org/WAI/fundamentals/accessibility-intro/#important) be it [business case of accessibility](https://www.w3.org/WAI/business-case/), and what are the [benefits to the organization](https://www.w3.org/WAI/media/av/users-orgs/#benefits). Accessibility measures also need to take all types of disability previously listed into account.
 
@@ -36,7 +36,7 @@ Here are some categories of RTC, with some examples:
 
 *Chat and threads platform - Slack, Discord, Reddit etc.*
 
-Although this is just the list of RTC platforms, many such features build important aspects of real-time collaboration. Microsoft lists a good summary of these [popular features](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/real-time-collaboration-what-it-is-and-how-it-helps-your-business).
+Although this is just the list of RTC platforms, many such features build important aspects of real-time collaboration. Microsoft lists a good summary of these [popular features](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/real-time-collaboration-what-it-is-and-how-it-helps-your-business). 
 
 Our study focuses on the following common actions in an RTC environment:
 
@@ -44,6 +44,8 @@ Our study focuses on the following common actions in an RTC environment:
 - Users being added to channels or docs
 - Users replying to messages or comments
 - Users 'reacting' to messages or comments
+
+It was important to consider testing these real time collaborative platforms and their accessibility, to understand the best practices and help other developers and designers understand its importance.
 
 ### ***Is everything accessible out there?***
 
